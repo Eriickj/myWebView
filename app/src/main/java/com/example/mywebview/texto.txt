@@ -18,5 +18,3 @@ Las interfaces también permiten la herencia múltiple en Kotlin, lo que signifi
  de varias fuentes diferentes. En resumen, las interfaces en Kotlin son una herramienta poderosa para
  definir contratos entre clases y crear código modular y extensible.
 
-
- Cambio que si quiero subir
