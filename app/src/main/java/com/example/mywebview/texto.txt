@@ -1,0 +1,19 @@
+En Kotlin, una interfaz es una herramienta que se utiliza para definir un conjunto de métodos que
+una clase debe implementar. Una interfaz establece un contrato entre una clase y el código que
+la utiliza,lo que significa que una clase que implementa una interfaz debe proporcionar una
+implementación de todos los métodos definidos en la interfaz.
+
+La interfaz define solo la firma de los métodos, es decir, el nombre del método, los parámetros
+que espera y el tipo de valor que devuelve. Pero no define la implementación de los métodos en sí.
+Es responsabilidad de la clase que implementa la interfaz proporcionar la implementación concreta
+de los métodos.
+
+Las interfaces son útiles en Kotlin porque permiten crear código modular y extensible. Por ejemplo,
+si tienes un conjunto de clases que necesitan realizar una operación común, puedes definir
+una interfaz que declare los métodos necesarios para realizar esa operación. Luego, puedes hacer que
+cada clase implemente la interfaz y proporcione su propia implementación de los métodos.
+
+Las interfaces también permiten la herencia múltiple en Kotlin, lo que significa que una clase puede
+ implementar múltiples interfaces. Esto puede ser útil para crear clases que tienen funcionalidades
+ de varias fuentes diferentes. En resumen, las interfaces en Kotlin son una herramienta poderosa para
+ definir contratos entre clases y crear código modular y extensible.
