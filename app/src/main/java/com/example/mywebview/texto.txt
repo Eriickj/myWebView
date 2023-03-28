@@ -19,3 +19,6 @@ Las interfaces también permiten la herencia múltiple en Kotlin, lo que signifi
  definir contratos entre clases y crear código modular y extensible.
 
 quiero subirlo
+
+
+Trabajo en algo que me han pedido.
